@@ -1,0 +1,4 @@
+job:
+  nats:
+    uri: nats://localhost:4222
+    topic: MY_MESSAGE_TOPIC
